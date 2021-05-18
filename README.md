@@ -1,6 +1,6 @@
 i# Git practice
 
-> In this assignment, we'll practice using git from the command line.
+> In this assignment, we'll practice using git from the command line. *** I am also going to add random text in nano throught this .md. I wish I knew how to add pictures***
 
 ## Step 1: Setting up an SSH key
 
