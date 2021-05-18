@@ -1,4 +1,4 @@
-# Git practice
+i# Git practice
 
 > In this assignment, we'll practice using git from the command line.
 
@@ -16,7 +16,7 @@ Follow the guide here: https://docs.github.com/en/github/authenticating-to-githu
 
 If you have any trouble with the command that copies the SSH key to your clipboard, you can instead type `cat ~/.ssh/id_ed25519.pub` and then manually copy the output of that command which will look like `ssh-ed25519 AAAAC3NzaC1l...`.
 
-## Step 2: Configuring the Git program
+## Step 2: Configuring the Git program @@@ These at symbols look as though they belong here (=
 
 Now that you have an SSH key set up, we need to configure the git program through the command line. We'll need to tell git what our GitHub email and username is. Additionally, we'll want to set our default command line text editor to the 'nano' program.
 
@@ -24,9 +24,9 @@ In the command line, enter the following commands, substituting the [BRACKETED T
 
 1. `git config --global user.email [YOUR GITHUB EMAIL]`
 1. `git config --global user.name [YOUR GITHUB USERNAME]`
-1. `git config --global core.editor nano`
+1. `git config --global core.editor nano
 
-## Step 3: Cloning the repository
+## Step 3: Cloning the repository 
 
 Fantastic, everything is set up. Now, lets actually use git to download some code.
 
@@ -43,6 +43,7 @@ Now that you've cloned the repository, a new directory should exist with your co
 Now, decide on 3-5 changes that you would like to make to your repository (adding a new picture, editing content, etc.)
 
 Open up VSCode and open up the cloned folder with the code inside. Make one of your changes.
+***Here I am in VS Code making changes (= ***)
 
 Now, back in the command line, commit those changes and push them. Repeat for each of your 3-5 changes so that you create 3-5 commits. Make sure each commit message describes the changes that were made!
 
