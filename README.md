@@ -26,7 +26,8 @@ In the command line, enter the following commands, substituting the [BRACKETED T
 1. `git config --global user.name [YOUR GITHUB USERNAME]`
 1. `git config --global core.editor nano
 
-## Step 3: Cloning the repository 
+## Step 3: Cloning the repository ## I added the pound signs on the right side of the origianl text.
+Also though... Star Wars Episode II: Attack of the Clones was easily on the worst films in the Star Wars universe. 
 
 Fantastic, everything is set up. Now, lets actually use git to download some code.
 
